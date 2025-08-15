@@ -47,7 +47,7 @@ The workflow covers:
 ---
 
 ## 📊 Dataset
-- **Source:** [Insert dataset link or mention Kaggle/UCI]
+- **Source:** inside in the data folder
 - **Target Variable:** Student final exam performance (numeric or categorical)
 - **Example Features:**
   - Gender
